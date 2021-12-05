@@ -16,11 +16,13 @@ These are my repos for the Django For Beginners book.
 These are my repos for the Django For APIs book.
 * https://github.com/JYC11/d4a-library
 * https://github.com/JYC11/d4a-todo
-* in progress...
+* https://github.com/JYC11/d4a-blogapi
 
 ## Django For Professionals
 These are my repos for the Django For Professionals book.
-* To do
+* https://github.com/JYC11/d4p-ch1-docker
+* https://github.com/JYC11/d4p-ch2-postgres
+* working on the book store project in the book
 
 ## Personal Project
 To do.
