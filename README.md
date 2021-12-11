@@ -22,7 +22,10 @@ These are my repos for the Django For APIs book.
 These are my repos for the Django For Professionals book.
 * https://github.com/JYC11/d4p-ch1-docker
 * https://github.com/JYC11/d4p-ch2-postgres
-* working on the book store project in the book
+* https://github.com/JYC11/d4p-bookstore
+
+## Advanced Django APIs
+* WIP
 
 ## Personal Project
 To do.
