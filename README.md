@@ -26,6 +26,7 @@ These are my repos for the Django For Professionals book.
 
 ## Advanced Django APIs
 * WIP
+* sorta related to the generic backend project below
 
 ## Personal Project
 To do.
@@ -37,3 +38,9 @@ Generic backend starter/boilerplate with the following features.
 * tests
 * logging
 * SQL database
+
+Ecommerce app.
+* all the features above
+* + React frontend(for gits and shiggles)
+* And any other features that come to mind. Can't think of anything for now.
+
