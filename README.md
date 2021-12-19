@@ -25,22 +25,12 @@ These are my repos for the Django For Professionals book.
 * https://github.com/JYC11/d4p-bookstore
 
 ## Advanced Django APIs
-* WIP
-* sorta related to the generic backend project below
+* https://github.com/JYC11/recipe-api
+* To write the README
+
+## Ecommerce Website
+* To do
 
 ## Personal Project
-To do.
-
-Generic backend starter/boilerplate with the following features.
-* CRUD
-* authentication
-* authorization
-* tests
-* logging
-* SQL database
-
-Ecommerce app.
-* all the features above
-* + React frontend(for gits and shiggles)
-* And any other features that come to mind. Can't think of anything for now.
+* thinking of what to do...
 
