@@ -25,8 +25,8 @@ These are my repos for the Django For Professionals book.
 * https://github.com/JYC11/d4p-bookstore
 
 ## Advanced Django APIs
+From a udemy course.
 * https://github.com/JYC11/recipe-api
-* To write the README
 
 ## Ecommerce Website
 * To do
